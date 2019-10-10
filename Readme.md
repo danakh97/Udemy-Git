@@ -1,4 +1,4 @@
-## Udemy-Git course
+## Udemy- introduction to Git and GitHub course
 ### Dana Al-Khayat
 
-Note: Good luck
+* Note: Good luck
